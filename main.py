@@ -15,7 +15,7 @@ from telegram.error import TelegramError
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8885272668:AAG1HFWDthVZrVfXbxmK2k5zxwkeGacfbC4"
+BOT_TOKEN = "8883278529:AAE2IdetcCmkdWNHMijYO36A4IwFqe6nQbg"
 
 # ==================== VOLTX SMS API CONFIGURATION ====================
 API_KEY = "M48R9YJS4ES"
